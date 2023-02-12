@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class BJ11718 {
     public static void main(String[] args) {
